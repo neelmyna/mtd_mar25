@@ -1,0 +1,302 @@
+
+-------------------------------------------------------------
+https://github.com/GayathriiMadhu/quest_python
+
+https://github.com/Aswathy-US/quest_python
+
+https://github.com/Albin-Sabu/quest_python
+
+https://github.com/Akarsh-A123/Quest_python.git
+
+https://github.com/Archana802/quest_python
+
+https://github.com/D-R-Gokul/quest_python
+
+https://github.com/Sneha-Mathai64/quest_python
+
+https://github.com/ashly-1234/quest_python
+
+https://github.com/DevikaAshok12/Quest-Global-Python-Training.git
+
+https://github.com/Akshara112/quest_python
+
+https://github.com/arshatj361/quest_python
+
+https://github.com/Ameensha773/quest_python
+
+-------------------------------------------------------------
+ASSIGNMENTS:
+Day1:
+1. List the unique characteristics/features of Python
+2. Write a program to check if a number is Even.
+3. Write a program to convert a lower case letter to upper case.
+4. Check if a letter is vowel or consonant
+5. Check if a number is single digit or not.
+
+Day2:
+2. What is the alternative implementation of function overloading in Python?
+3. Why there is no implicit type casting in Python ?
+4. Why there is no ++ and -- (increment/decrement) operators in Python?
+5. What is the difference between @static method and @class method?
+6. What is the difference between __new__() and __init__() ?
+7. What is the syntax to use switch-case in Python. Given an example.
+8. Can the key within a dictionary be a composite value like a list or tuple, or should it be an atomic value such as number or string?
+
+day2 program assignments:
+1. Find sum of Even placed digits in a number
+2. Find biggest digit in a number
+3. Find 2nd smallest digit in a number
+4. Check if a number is Prime
+5. Print an equi lateral triangle of n lines
+6. Print the Pascals triangle of n lines
+7. Print the Fibo series of n terms with 1st 2 terms as 1 and 2.
+8. Count the number of Prime digits in a number
+9. Print a hollow square of n lines
+10.Print X shape made up of stars of n lines
+11.Print a hollow square of n line with the diagonals.
+
+DAY3 ASSIGNMENTS:
+1. Accept N numbers from the user and swap the consecutive elements in the list.
+2. Find the smallest and biggest elements in a list of N numbers
+3. Print the smallest and biggest sized strings from a list of N strings.
+4. Remove the negative numbers from a list of N numbers.
+5. Demonstrate the different ways of adding elements to a list and different ways to delete elements from a list.
+6. Learn List slicing and List comprehension.
+-----------------------------------------------------
+whatsApp Update: EXAMPLE GIVEN BY TRAINER
+
+1. Content of the day
+2. Feedback
+3. Assignments Done (Yes / No, with how many)
+4. Queries/Others
+EXAMPLE:
+1. Content of the day
+	Problem solving using Loops, Python List, List comprehension
+2. Feedback
+	The problem solving seamed to be challenging. The Trainer could have used the time more effectively in the sense that more problem could have been solved.
+3. Assignments Done (Yes / No, with how many)
+	5 coding assignments were gievn out of which 3 on Loops and 2 on Lists. All 5 problems I have solved and I have understood them and I have traced the logic with different set of I/P.
+4. Queries/Others
+	What are other IDEs we can use to code in Python? Will be learning OOP in this training?
+----------------------------------------------------------------
+day4 Assignments:
+Problems:
+1. User gives the data like this:
+kerala-tiruvanantapuram karnataka-bengaluru tamilnadu-chennai
+You have to separate the states and store in the list states[] and also the seperated capitals must be stored in capitals[]
+
+2. Accpet a string of space seperated numbers and store them as a matrix (list of lists) of n rows.
+Now print the matrix row-wise
+
+3. Accept N strings and count the number of Palindromes in it.
+
+4. Accept N strings, and check howmany of them possess the string X
+
+5. Accept N main strings and N sub strings into lists and check create a list of numbers of 0s and 1s where 0 represents that the sub string at respective index is not a substring of the main string.
+
+main_list = ['andhra pradesh', 'kerala', 'maharashtra', 'haryana']
+sub_list  = ['pradesh', 'south', 'rashtra', 'punjab']
+
+presence = [1, 0, 1, 0]
+------------------------------------------------
+Akarsh 		- 1 - Lauren has a ...
+Akshara 	- 2 - Rajesh is preparing for GATE (2 sheets)
+Albin		- 3 - Maximum element IN THE Stack (2 sheets)
+Archana		- 4 - Harry Potter and Sorceror's (3 sheets)
+Arsha		- 5 - Tisha went to her Orchad
+Ashly		- 6 - Tsubasa and his Fest (2 sheets)
+Gokul		- 7 - You are given with a deck of n cards
+Devika		- 8 - You are given a string containing A and B only
+Gayatri		- 9 - Harsha is working as a programmer
+Sreejith	- 10- Riya was planning to invent a game of shifting
+Sneha		- 11- Shreya and her mon went to shopping
+---------------------------------
+------------------------------------------------------
+Akarsh A			: 2/5
+Below Average at intereaction.
+Average at giving answers during sessions.
+Average completion of Assignments. 
+Average improvement in learning.
+-------------------
+Akshara Soman		: 3/5
+Good at intereaction.
+Average at giving answers during sessions.
+Average completion of Assignments. 
+Average improvement in learning.
+------------------------
+Albin Sabu			: 4.5/5
+Good at intereaction.
+Good at giving answers during sessions.
+Above average completion of Assignments. 
+Above average improvement in learning.
+----------------------------
+Ameen Sha			: 2/5
+Below Average at intereaction.
+Average at giving answers during sessions.
+Average completion of Assignments. 
+Average improvement in learning.
+However, he has performed good in assessments. Need to check him once again.
+-------------------------------
+Anushree T V		: Absent since 31st July
+---------------------
+Archana Rajan		: 3.5/5
+Good at intereaction.
+Average at giving answers during sessions.
+Above average completion of Assignments. 
+Above average improvement in learning.
+-------------------------------------
+Arsha T J			: 3/5
+Average at intereaction.
+Average at giving answers during sessions.
+average completion of Assignments. 
+average improvement in learning.
+----------------------------------------
+Ashly Joshy			: 3/5
+Average at intereaction.
+Average at giving answers during sessions.
+average completion of Assignments. 
+average improvement in learning.
+---------------------------------
+Aswathy U S			: Absent since 31st July
+-------------------------------
+Devika Ashok		: 5/5
+Good at intereaction.
+Good at giving answers during sessions and sharing screen to discuss code.
+Above average completion of Assignments. 
+Good improvement in learning was observed.
+--------------------------------------------
+Gayathri M			: 5/5
+Good at intereaction.
+Good at giving answers during sessions and sharing screen to discuss code.
+Above average completion of Assignments. 
+Good improvement in learning was observed.
+--------------------------------------
+Gokul D R			: 4/5
+Good at intereaction.
+Average at giving answers during sessions.
+Above average completion of Assignments. 
+Good improvement in learning was observed.
+-------------------------------------
+Lubna Parveen		: Absent since 31st July
+------------------------------
+Shafin Shajahan		: Absent since 31st July
+--------------------------------------
+Sneha Mathai		: 3/5
+Average at intereaction.
+Average at giving answers during sessions.
+Above average completion of Assignments. 
+Average improvement in learning.
+-----------------------------------
+Sreejith J			: 4/5
+Good at intereaction.
+Good at giving answers during sessions.
+Above average completion of Assignments. 
+Good improvement in learning was observed
+------------------------------------
+Tanveer Alam Ansari	: Absent since 1st Aug
+---------------------------------------------------------
+Akarsh 		- 1 - Lauren has a ...
+Akshara 	- 2 - Rajesh is preparing for GATE (2 sheets)
+Albin		- 3 - Maximum element IN THE Stack (2 sheets)
+Archana		- 4 - Harry Potter and Sorceror's (3 sheets)
+Arsha		- 5 - Tisha went to her Orchad
+Ashly		- 6 - Tsubasa and his Fest (2 sheets)
+Gokul		- 7 - You are given with a deck of n cards
+Devika		- 8 - You are given a string containing A and B only
+Gayatri		- 9 - Harsha is working as a programmer
+Sreejith	- 10- Riya was planning to invent a game of shifting
+Sneha		- 11- Shreya and her mon went to shopping
+
+Gayatri: CODING: 9 out of 10,  VIVA: 4/5
+coding problem solved. o/p shown and explained. Only one probelm solved:
+Viva questions:
+1. how can we know the index of a character or a sub string in a string ? Not answered
+2. difference between list and tuple. Answered
+3. What does the pop() method of string class do
+4. What are the different ways to delete an element from a list? answered partly.
+5. If I using append() and pop() methods on a list, which DS I am implementing ? Answered
+--------------------------
+Albin: CODING: 8/10,  VIVA: 4/5
+coding problem solved. o/p shown and explained. Only one probelm solved:
+Viva questions:
+1. If I want to impliment Queue using list, which methods will you use ? half answered
+2. which method will u use to remove leading and trailing spaces from a string ? Not answered.
+3. What are the different types of errors we get during runtime?
+answered.
+4. what is a lambda function ? answered.
+---------------------------
+Arsha TJ: CODING: 6/10, VIVA: 2/5
+Coding completed, but explanation was not complete. VIVA: 
+1. what are the aggregate functions available in Python? half answered.
+2. What are the methods that you can recall on string object? half answered.
+3. What are the methods that you can recall on list object? half answered.
+4. What are ways we can use "del" on a list ? Not answered
+-------------------------------
+Devika: CODING: 9/10, VIVA: 3/5
+Coding logic was explained very good.
+Viva Questions
+1. What are ways we can use "del" on a list ? half answered
+2. What is NameError ? answered
+3. What is TypeError ? half answered
+4. What methods on string do you remember ? answered
+------------------
+Akarsh: CODING: 8/10 VIVA: 4/5 
+Coding demonstraion was good
+Viva questions:
+1. what is the difference between (answered)
+del list1
+del list1[2]
+del list1[2:5]
+2. What are the aggregate functions in Python ? (half answered)
+3. What are different ways to add an element into a list? answered
+4. what is list comprehension? given an example. Answered
+----------------
+Gokul: CODING: 9/10  VIVA: 4/5
+viva questions:
+1. What are the different ways to impliment Stack using list? answered
+2. How can I insert and delete element at front from the list? and what DS it would be? Stack
+3. Different ways of creating a list. Answered
+----------------------------
+Sneha: CODING: 8/10 VIVA: 3/5
+viva questions:
+1. What kind of language is Python? answered
+2. What is pass in Python? half answered
+3. How do you swap 2 numbers in Python? not answered
+4. Define 1st line of a function that takes var args ? answered
+5. Can we pass a function as an argument in Python ? half answered
+-----------------------------
+Sreejith: CODING: 8/10 VIVA: 3/5
+viva questions
+1. Different ways to use range()? answered
+2. How do you reverse a string in Python ? half answered
+3. What is the difference between sorted() and sort(). Answered
+4. write a code snippet to convert string into list. Half answered
+5. write code snippet to convert list into string. half answered
+---------------------------
+Akshara Soman: CODING: 6/10  VIVA: 3/5
+The problem was understood wrongly. But the code was written right for the assumed question.
+viva questions:
+1. What does print() return ? half answered
+2. A fundtion that returns nothing, what do you say? half answered
+3. What is IndexError ? not answered
+4. What is difference between / and // ? answered
+5. What is dictionary in Python ? half answered
+-------------------------------------------
+Ashly: CODING: 6/10  VIVA: 3/5
+Partial Output for the coding question.
+viva questions
+1. What does the input() return ? answered
+2. What is type casting and what type of casting is not available in Python ? half answered
+3. What are different ways to delete a character from a string? half answered
+4. What is floor of a number?  answered
+5. What is round(4.49) ? 
+------------------------------------------------------
+Archana: CODING: 6/10 VIVA: 4/5
+partial output for the coing question.
+viva questions
+1. What is the default argument of split()? answered
+2. What methods we cannot use on tuple which we can use on list? answered
+3. What are the different ways to sort a list? half answered
+4. what are passed by value and what are passed by reference? half answered
+5. Whats is the difference between break, continue and return? answered
+------------------------------------------------------
