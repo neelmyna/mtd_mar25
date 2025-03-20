@@ -1,0 +1,57 @@
+What is MongoDB?
+
+>MongoDB is powerful, flexible,scalable and NoSQL(Not Only SQL) database 
+that is widely used for storing large amounts of unstructured or semi-structured data. 
+
+Unlike traditional relational databases (such as MySQL or PostgreSQL), which use tables and 
+rows to store data, MongoDB stores data in a flexible, document-oriented format 
+using BSON (Binary JSON) format.
+    
+>Document-Oriented Storage:
+    MongoDB stores data in documents. A document is a set of key-value pairs, 
+    and it can include nested structures (arrays, embedded documents, etc.).
+    Documents are similar to JSON objects but stored in BSON (Binary JSON), 
+    which allows for more efficient storage and includes additional data types 
+    like Date and Binary.
+
+>Example of a person document in MongoDB:
+    {
+        "name": "suman",
+        "gender": "Female",
+        "location":"Mysore"
+    }
+
+What is mongoengine?
+
+>MongoEngine is an Object-Document Mapper (ODM) for MongoDB in Python. It provides 
+a high-level abstraction over the raw pymongo driver, allowing you to work with MongoDB 
+in a more Pythonic way, using Python objects and classes instead of raw queries and 
+BSON documents.
+
+An ODM is similar to an Object-Relational Mapper (ORM) but for NoSQL databases like 
+MongoDB. While ORMs are used to map Python objects to relational database tables 
+(e.g., SQLAlchemy for relational databases), ODMs map Python objects to MongoDB documents.
+
+========================================================================================
+
+Step1: Create a virtual environment in VS Code 
+    >Create your project folder and open this folder in VScode
+    >Open the Command Palette by pressing Ctrl+Shift+P
+    >Search for and select Python: Create Environment
+    >Choose Venv as the environment type
+    >Select an interpreter python version from the list
+    >A notification will appear showing the progress of the environment creation
+    >The environment folder will appear in your workspace (.venv)
+    >Use the Python: Select Interpreter command to select your new environment
+
+Step2: Install dependencies using pip
+    $pip install mongoengine 
+
+Step3:> Open MongoDBCompass connect to db click on connect button.
+    
+Step4: execute app.py file
+    $python app.py 
+
+Step5: Test CRUD operations using menudriven program. 
+
+========================================================================
