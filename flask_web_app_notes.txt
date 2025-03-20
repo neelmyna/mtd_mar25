@@ -1,0 +1,66 @@
+To Download Git:
+Google Search: Doanload Git
+Click the link: https://git-scm.com/downloads
+
+Now select the OS
+Standalone Installer: 64 bit
+Installer file will be doanloaded.
+Now, Double click the installer file and install it.
+Now if you go to command prompt and run the below command, you should get the version number.
+git --version
+
+STEPS TO CREATE A NEW GIT REPO:
+
+Click on + (top right on logged in window)
+Select New Repository
+Give name of the repo
+Give description
+Keep the Repo Public
+Select the check box Add read me file
+Click Create Repository
+
+STEPS TO CREATE PERSONAL ACCESS TOKEN:
+
+-> Click on Right most top corner (Profile icon)
+-> Click on Settings
+-> Now, in the new window, scroll a little bit down, and you will find Developer settings. Click it
+-> Now in new window, on top left side, Click Personal Access Tokens, select Tokens Classic
+-> Now in new window, Click the button Generate Personal Access Token, select Generate new Token (Classic)
+Now it MAY ASK, you to authenticate (enter the password)
+-> In the new Window, Give a NOTE: "This PAT is created for all my learning during my engineering"
+-> Click Expiration and select No expiration
+-> Select the 1st check box named repo
+-> Now, fully scroll down and click generate token
+-> Copy the token (Click the copy button)
+-> Mail the PAT to your own email id (keep the mail subject as "git pat")
+
+GIT COMMANDS:
+git clone https://github.com/neelmyna/mtd_mar25
+
+The above command creates a folder with the name "mtd_mar25"
+$ dir 
+The above command should show the repo folder name.
+
+now go inside the repo folder
+$ cd mtd_mar25
+$ dir 
+We can see the readme.md file
+
+git config --global user.name "your git user"
+
+git config --global user.email "your email"
+
+To Add files from Local Repo to Remote Repo:
+
+$ git add .
+This command marks/stages all the files from the current folder that need to be copied from local repo to remote.
+
+$ git commit -m "relavant message"
+This command will creatye an object with all the files copied inside it and the object is encrypted
+
+$ git push origin main
+
+
+
+
+
