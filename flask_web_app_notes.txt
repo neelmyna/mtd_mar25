@@ -59,8 +59,15 @@ $ git commit -m "relavant message"
 This command will creatye an object with all the files copied inside it and the object is encrypted
 
 $ git push origin main
+This command copies the object created in previous command uploads/pushes the files from local repo to remote repo
+----------------------------------------
+All students now will clone the trainer repo:
+Go inside learning folder
+Those who have your repo_name same as that of trainer, do this:
+Create a folder named "trainer" inside learning and go inside it.   
+Open command prompt from there.
+Run the below command to copy the terainer repo in your laptop
 
+git clone https://github.com/neelmyna/mtd_mar25
 
-
-
-
+https://docs.google.com/forms/d/1iSwQkKhZG8W36Jm8K2bOEaaFTtOJ_tQC-h8XJuB0foo/edit
